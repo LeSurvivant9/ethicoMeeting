@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49140893338",
+    "project_id": "ethico-meeting",
+    "storage_bucket": "ethico-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49140893338:android:72c2505964c8b8c37a0123",
+        "android_client_info": {
+          "package_name": "com.example.ethico_meeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBgvq7kQvdV91tdQuWlUfMU5mzxNygeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
